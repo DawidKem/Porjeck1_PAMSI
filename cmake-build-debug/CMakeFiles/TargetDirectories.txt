@@ -1,0 +1,3 @@
+/home/dawid/Pulpit/Clion project/Pamsi_projeckt1/cmake-build-debug/CMakeFiles/Pamsi_projeckt1.dir
+/home/dawid/Pulpit/Clion project/Pamsi_projeckt1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dawid/Pulpit/Clion project/Pamsi_projeckt1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
